@@ -1,0 +1,16 @@
+
+* Vide mapa mental 
+
+//  A instrução abaixo deve ter sido digitada no final do projeto backend
+. Vá para o terminal
+. Volte para a pasta [aulas]
+    (Crie o app frontend)
+    $ npx create-react-app frontend
+
+. Estando na pasta frontend
+    (no terminal do vscode ou terminal mac)
+    // Vai executar o script start que esta no package.json
+    $ npm start
+
+    
+
