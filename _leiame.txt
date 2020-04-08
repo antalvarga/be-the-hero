@@ -12,7 +12,5 @@
     // Vai executar o script start que esta no package.json
     $ npm start
 
-    
-
 
 
